@@ -1,7 +1,7 @@
 {
   "dockerComposeFile": "docker-compose.yml",
-  "service": "dev",
-  "workspaceFolder": "/workspaces/dev",
+  "service": "rust",
+  "workspaceFolder": "/workspaces/rust",
   "customizations": {
     "vscode": {
       "extensions": [
@@ -15,7 +15,8 @@
     }
   },
   "postCreateCommand": [
-    "sh", ".devcontainer/update-paths.sh"
+    "sh",
+    ".devcontainer/update-paths.sh"
   ]
   // forwardPorts here
 }
