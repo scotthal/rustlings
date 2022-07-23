@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM rust:latest
 
 ARG USERNAME=scotthal
 ARG USER_UID=1100
