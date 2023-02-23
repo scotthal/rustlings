@@ -9,7 +9,7 @@
         "github.github-vscode-theme",
         "ms-azuretools.vscode-docker",
         "redhat.vscode-yaml",
-        "rust-lang.rust",
+        "rust-lang.rust-analyzer",
         "visualstudioexptteam.vscodeintellicode"
       ]
     }
