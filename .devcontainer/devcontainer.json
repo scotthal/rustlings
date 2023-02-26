@@ -5,6 +5,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "bungcip.better-toml",
         "editorconfig.editorconfig",
         "github.github-vscode-theme",
         "ms-azuretools.vscode-docker",
